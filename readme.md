@@ -10,5 +10,5 @@ Basic client and consumer implementations using NodeJS and RabbitMQ.
 
 ## Commands
 
-- `npm run publish {number}` where `{number} will be the a number that represents the message content stored in the queue
+- `npm run publish {number}` where `{number}` will be the a number that represents the message content stored in the queue
 - `npm run consume` will process the queue and acknowledge the message
